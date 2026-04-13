@@ -32,7 +32,7 @@ repository: "bobby-bag/bobby-bag.github.io"
 # Author profile information
 # -------------------------
 author:
-  avatar: "profile.JPG"    # Profile image file shown in the sidebar/profile area
+  avatar: "bob.JPG"    # Profile image file shown in the sidebar/profile area
   name: "Robert Bagley"
   bio: "Teaching Assistant for the I.T. program at University of Houston-Clear Lake (UHCL). M.S. Data Science student @ UHCL. Former Reconnaissance Marine & Scout Sniper"
   location: "TX"
