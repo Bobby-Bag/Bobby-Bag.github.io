@@ -9,43 +9,35 @@ This page highlights selected coursework, research, technical, or portfolio proj
 
 Students should include only projects they are comfortable showing publicly.
 
-## Project 1: Project Title
+## Project 1: MMA Striking Performance Classifier
 
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Spring 2026  
-**Tools:** Python, Jupyter Notebook, Pandas, Scikit-learn  
-**Link:** [GitHub Repository](https://github.com/yourusername/your-repo)
-
-Write 2 to 4 sentences describing the project:
-- What problem did the project address?
-- What data, methods, or tools were used?
-- What was your role?
-- What was the final outcome?
-
-Example:
-
-This project explored student performance prediction using machine learning models. I cleaned the data, performed exploratory analysis, and trained several classification models in Python. The final model was used to compare prediction accuracy across multiple methods and summarize which features were most important.
-
-## Project 2: Project Title
-
-**Type:** Course Project / Research Project / Personal Project / Team Project  
+**Type:** Personal Project 
 **Date:** Fall 2025  
-**Tools:** Python, SQL, Tableau  
-**Link:** [Project Page](https://github.com/yourusername/your-project)
+**Tools:** `Python`, `Jupyter Notebook`, `Pandas`, `Scikit-learn`  
+**Link:** [MMA Striking Performance Classifier](https://github.com/Bobby-Bag/mma-striking-fight-prediction)
 
-Write 2 to 4 sentences describing the project.
+This project explored student performance prediction using machine learning models. I cleaned the data, performed exploratory analysis, and trained several classification models in Python. The final model was a machine learning classification model utilizing L1 Regularization to predict UFC fight outcomes based strictly on historical striking differentials. Outperformed a 56.4% naive baseline.
 
-## Project 3: Project Title
+## Project 2: Dry Beans Classification Modeling
 
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Summer 2025  
-**Tools:** R, ggplot2, Shiny  
-**Link:** [Demo or Repository](https://github.com/yourusername/your-project)
+**Type:** Course Project (Team) - Machine Learning and Data Analytics
+**Date:** Spring 2026  
+**Tools:** `Python`, `Scikit-Learn`, `Seaborn`  
+**Link:** [Dry Beans Classification](https://github.com/Bobby-Bag/dry-beans-classification-model)
 
-Write 2 to 4 sentences describing the project.
+An exercise in Discriminant Analysis, KNN, and Gaussian Niave Bayes classification models to predict bean variety. 
+
+## Project 3: Superstore Retail KPI Dashboard
+
+**Type:** Course Project (Team) - Data Visualization  
+**Date:** Spring 2026  
+**Tools:** `Tableau`, `Data Visualization`  
+**Link:** [Superstore Retail KPI Dashboard](https://github.com/Bobby-Bag/Retail-KPI-Dashboard)
+
+In this project, my group created an interactive BI dashboard analyzing regional sales performance, profitability heatmaps, and dynamic customer segment filtering to drive data-informed decision-making.
 
 ---
-
+```
 ## Suggested Project Writing Format
 
 For each project, try to include:
@@ -70,7 +62,7 @@ Recommended summary structure:
 
 Students may copy and reuse this block for additional projects:
 
-```md
+md
 ## Project Title
 
 **Type:** Course Project / Research Project / Personal Project / Team Project  
