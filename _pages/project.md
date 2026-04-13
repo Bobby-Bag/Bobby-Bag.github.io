@@ -5,10 +5,6 @@ author_profile: true
 ---
 
 
-This page highlights selected coursework, research, technical, or portfolio projects.
-
-Students should include only projects they are comfortable showing publicly.
-
 ## Project 1: MMA Striking Performance Classifier
 
 **Type:** Personal Project 
