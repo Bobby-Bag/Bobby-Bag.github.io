@@ -22,6 +22,9 @@ main:
 
   - title: "Courses"
     url: /courses/
+
+  - title: "Employment History"
+    url: /emphist/
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -29,8 +32,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
