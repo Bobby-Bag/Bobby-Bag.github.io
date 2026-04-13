@@ -7,7 +7,7 @@
 locale: "en-US"            # Main language/locale of the site
 site_theme: "default"      # Theme skin used by the site
 
-title: "Bobby Bagley | Data Science & ML Student"   # Text shown in browser tab and SEO metadata
+title: "Robert Bagley | Data Science & ML Student"   # Text shown in browser tab and SEO metadata
 title_separator: "-"       # Separator used in page titles
 name: "Bobby Bagley"         # Main name shown across the site
 description: "Academic portfolio and research in data science and machine learning"  # Short site description for search engines
