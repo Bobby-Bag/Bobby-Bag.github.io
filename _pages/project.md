@@ -35,9 +35,9 @@ An exercise in Discriminant Analysis, KNN, and Gaussian Niave Bayes classificati
 **Link:** [Superstore Retail KPI Dashboard](https://github.com/Bobby-Bag/Retail-KPI-Dashboard)
 
 In this project, my group created an interactive BI dashboard analyzing regional sales performance, profitability heatmaps, and dynamic customer segment filtering to drive data-informed decision-making.
-
+<!--
 ---
-```
+'''
 ## Suggested Project Writing Format
 
 For each project, try to include:
@@ -71,4 +71,5 @@ md
 **Link:** [Repository or Demo](https://github.com/yourusername/your-project)
 
 Write 2 to 4 sentences describing the project.
-```
+
+-->
