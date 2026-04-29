@@ -36,7 +36,7 @@ Provides a comprehensive overview of the data science lifecycle, from data acqui
 
 ---
 
-### Spring 2026 *(In Progress)*
+### Spring 2026
 
 **DASC 5231 — Data Visualization**  
 Focuses on the principles and tools used to communicate data insights through visual representation. Covers design theory, storytelling with data, and practical use of visualization libraries and dashboarding tools.
