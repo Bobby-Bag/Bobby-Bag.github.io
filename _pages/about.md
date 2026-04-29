@@ -28,11 +28,3 @@ As a former Marine Corps infantryman, I bring a highly disciplined, adaptable, a
 
 ---
 
-
-### Research Interests
-
-
-
-### News
-
-
