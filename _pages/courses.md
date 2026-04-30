@@ -7,7 +7,7 @@ author_profile: true
 # Academic Coursework
 
 **Institution:** University of Houston-Clear Lake  
-**Degrees:** A.S. Computer Science | B.S. Computer Information Systems *(Cum Laude, Dec 2024)* | M.S. Data Science *(In Progress)*  
+**Degrees:** M.S. Data Science *(In Progress)* | B.S. Computer Information Systems *(Cum Laude, Dec 2024)* | A.S. Computer Science 
 
 ---
 
