@@ -12,7 +12,7 @@ redirect_from:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagley0321)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bobby-Bag)
 
-I'm a data scientist and U.S. Marine Corps veteran pursuing an **M.S. in Data Science at the University of Houston-Clear Lake**, where I also serve as a **Teaching Assistant** in I.T. networking and cybersecurity coursework. My work sits at the intersection of machine learning, data storytelling, and real-world application — with a particular interest in how language models can be used to preserve and revitalize endangered languages.
+I'm a data professional and U.S. Marine Corps veteran pursuing an **M.S. in Data Science at the University of Houston-Clear Lake**, where I also serve as a **Teaching Assistant** in I.T. networking and cybersecurity coursework. My work sits at the intersection of machine learning, data storytelling, and real-world application — with a particular interest in how language models can be used to preserve and revitalize endangered languages.
 
 Before data science, I spent 12 years as a **Reconnaissance Marine and Scout Sniper** — authoring hundreds of intelligence reports, leading embassy evacuations on two continents, and operating in some of the world's most unforgiving environments. That background shapes how I approach every problem: with precision, adaptability, and a bias toward clarity over complexity.
 
