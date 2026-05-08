@@ -36,7 +36,7 @@ This project builds a binary classification model that predicts whether a U.S. d
 **Tools:** `Python`, `Jupyter Notebook`, `Pandas`, `Scikit-learn`  
 **Link:** [MMA Striking Performance Classifier](https://github.com/Bobby-Bag/mma-striking-fight-prediction)
 
-This project explored performance prediction using machine learning models. I cleaned the data, performed exploratory analysis, and trained several classification models in Python. The final model was a machine learning classification model utilizing L1 Regularization to predict UFC fight outcomes based strictly on historical striking differentials. Outperformed a 56.4% naive baseline.
+This project explored performance prediction using machine learning models. I cleaned the data, performed exploratory analysis, and trained a classification model in Python. The final result was a machine learning classification model utilizing L1 Regularization to predict UFC fight outcomes based strictly on historical striking differentials. Outperformed a 56.4% naive baseline.
 
 ## Dry Beans Classification Modeling
 
